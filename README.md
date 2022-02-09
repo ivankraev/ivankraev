@@ -9,7 +9,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivankraev&show_icons=true&theme=tokyonight)
 
 ## LinkedIn
-<a href="https://www.linkedin.com/in/ivan-kraev-404b5921a/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="LinkedIn-logo" height="40" style="vertical-align:top; margin:4px"></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/ivan-kraev-404b5921a/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="LinkedIn-logo" height="40" style="vertical-align:center; margin:4px"></a>
+  </p>
 
 ## 🧰 Languages and Tools:
 <p align="center">
